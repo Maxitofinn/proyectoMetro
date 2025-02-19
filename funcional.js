@@ -13,7 +13,7 @@ function estacionesDelMetro(numeroDeEstacion){
         "Merced","Candelaria","San Lazaro","Moctezuma", "Balbuena","Boulevard Puero aereo","Gomez Arias",
         "Zaragoza", "Pantitlan"];
 
-    let arregloDeEstacionesL2 =["Cuatro caminos","Panteones"];
+    let arregloDeEstacionesL2 =["Cuatro caminos","Panteones", "Hidalgo"];
         
     
         return arregloDeEstacionesL1[numeroDeEstacion-1];
