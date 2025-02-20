@@ -12,10 +12,13 @@ function estacionesDelMetro(numeroDeEstacion){
         "Insurgentes","Cuahtemoc", "Balderas", "Salto del agua", "Isabel la Catolica","Pino Suarez",
         "Merced","Candelaria","San Lazaro","Moctezuma", "Balbuena","Boulevard Puero aereo","Gomez Arias",
         "Zaragoza", "Pantitlan"];
+        
 
-    let arregloDeEstacionesL2 =["Cuatro caminos","Panteones", "Hidalgo"];
+    let arregloDeEstacionesL2 =["Cuatro caminos","Panteones", "Tacuba","Cuitlahuac","Popotla","Colegio Militar",
+        "Normal","San Cosme","Revolucion","Hidalgo","Bellas Artes","Allende","Zocalo","Pino Suarez","San Antonio Abad",
+        "Chabacano","Viaducto","Xola","Villa de Cortes","Nativitas","Portales","Ermita","General Anaya","Taqueña"];
         
     
-        return arregloDeEstacionesL1[numeroDeEstacion-1];
+       
     }
 
