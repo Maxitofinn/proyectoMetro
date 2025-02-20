@@ -18,7 +18,10 @@ function estacionesDelMetro(numeroDeEstacion){
         "Normal","San Cosme","Revolucion","Hidalgo","Bellas Artes","Allende","Zocalo","Pino Suarez","San Antonio Abad",
         "Chabacano","Viaducto","Xola","Villa de Cortes","Nativitas","Portales","Ermita","General Anaya","Taqueña"];
         
-    
+    let arregloEstacionesL3 =["Indios Verdes","Depostivo 18 De Marzo","Potrero","La Raza","Tlatelolco","Guerrero",
+        "Hidalgo","Juarez","Balderas","Niños Heroes / Poder Judicial CDMX","Hospital General","Centro Medico",
+        "Etiopia / Plaza De La Transparencia","Eugenia","Division del norte","Zapata","Coyoacan","Viveros / Derechos Humanos",
+        "Miguel Angel De Quevedo","Copilco","Universidad"];
        
     }
 
